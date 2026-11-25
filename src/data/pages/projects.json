@@ -1,0 +1,26 @@
+{
+  "slug": "projects",
+  "seo": {
+    "title": "Fencing Projects | Saltbush Fencing Co.",
+    "description": "Recent Colorbond, pool, slat, security and gate projects across Perth and the South West."
+  },
+  "sections": [
+    {
+      "type": "page-header",
+      "eyebrow": "Projects",
+      "heading": "Recent work from our crews",
+      "subheading": "A few favourite jobs from the last few months — the challenge, how we solved it and how it turned out."
+    },
+    {
+      "type": "projects",
+      "heading": "All projects",
+      "limit": 12
+    },
+    {
+      "type": "reviews",
+      "eyebrow": "Reviews",
+      "heading": "From the people who own these fences",
+      "limit": 3
+    }
+  ]
+}

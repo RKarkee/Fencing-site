@@ -1,0 +1,15 @@
+{
+  "slug": "book",
+  "seo": {
+    "title": "Book a Free Measure & Quote | Saltbush Fencing Co.",
+    "description": "Book a free on-site measure and fixed written quote anywhere in Perth or the South West."
+  },
+  "sections": [
+    {
+      "type": "page-header",
+      "eyebrow": "Free measure & quote",
+      "heading": "Book your free measure",
+      "subheading": "Pick a time, and an estimator will visit, measure and email a fixed written quote within 48 hours. No obligation."
+    }
+  ]
+}

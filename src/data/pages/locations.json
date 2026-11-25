@@ -1,0 +1,32 @@
+{
+  "slug": "locations",
+  "seo": {
+    "title": "Service Areas | Perth & South West Fencing",
+    "description": "Saltbush Fencing Co. services Perth metro, Joondalup, Rockingham, Mandurah, Bunbury and the South West."
+  },
+  "sections": [
+    {
+      "type": "page-header",
+      "eyebrow": "Service areas",
+      "heading": "Where we work",
+      "subheading": "Two yards — Osborne Park and Bunbury — covering everywhere from Two Rocks to Dunsborough."
+    },
+    {
+      "type": "locations",
+      "heading": "Choose your area"
+    },
+    {
+      "type": "cta-banner",
+      "heading": "Outside these areas?",
+      "subheading": "We regularly travel for commercial and rural jobs. Tell us where you are and we'll let you know.",
+      "ctas": [
+        {
+          "label": "Ask us",
+          "action": "open-chat",
+          "prompt": "Do you service my area?",
+          "variant": "primary"
+        }
+      ]
+    }
+  ]
+}

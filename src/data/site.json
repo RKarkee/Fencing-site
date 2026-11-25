@@ -1,0 +1,54 @@
+{
+  "name": "Saltbush Fencing Co.",
+  "shortName": "Saltbush",
+  "legalName": "Saltbush Fencing Co. Pty Ltd",
+  "tagline": "Fences built for the WA sun.",
+  "description": "Family-run fencing contractor supplying and installing Colorbond, pool, PVC, slat, retaining and security fencing across Perth and the South West.",
+  "url": "https://saltbushfencing.com.au",
+  "abn": "41 600 123 987",
+  "licence": "WA Building Services Reg. BC-104882",
+  "email": "hello@saltbushfencing.com.au",
+  "commercialEmail": "projects@saltbushfencing.com.au",
+  "foundedYear": 2009,
+  "rating": { "value": 4.9, "count": 412, "source": "Google" },
+  "offices": [
+    {
+      "id": "perth",
+      "name": "Perth Yard & Showroom",
+      "street": "14 Ironbark Way",
+      "suburb": "Osborne Park",
+      "state": "WA",
+      "postcode": "6017",
+      "phone": "(08) 5550 1234",
+      "phoneE164": "+61855501234",
+      "hours": [
+        { "label": "Mon – Fri", "value": "7:00am – 4:00pm" },
+        { "label": "Saturday", "value": "8:00am – 12:00pm (showroom only)" }
+      ],
+      "geo": { "lat": -31.8996, "lng": 115.8136 }
+    },
+    {
+      "id": "south-west",
+      "name": "South West Depot",
+      "street": "3/22 Estuary Drive",
+      "suburb": "Bunbury",
+      "state": "WA",
+      "postcode": "6230",
+      "phone": "(08) 5550 4321",
+      "phoneE164": "+61855504321",
+      "hours": [{ "label": "Mon – Fri", "value": "7:30am – 3:30pm" }],
+      "note": "Showroom visits by appointment",
+      "geo": { "lat": -33.3356, "lng": 115.6436 }
+    }
+  ],
+  "socials": [
+    { "label": "Facebook", "href": "https://facebook.com" },
+    { "label": "Instagram", "href": "https://instagram.com" },
+    { "label": "YouTube", "href": "https://youtube.com" }
+  ],
+  "announcement": {
+    "enabled": true,
+    "text": "Book before 12 Dec for pre-Christmas installs — limited slots left.",
+    "href": "/book"
+  }
+}

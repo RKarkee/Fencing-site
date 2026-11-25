@@ -1,0 +1,100 @@
+{
+  "slug": "home",
+  "seo": {
+    "title": "Fencing Contractors Perth & South West | Saltbush Fencing Co.",
+    "description": "Colorbond, pool, PVC, slat and security fencing supplied and installed across Perth and the South West. Free measure, fixed written quote, 10-year workmanship warranty."
+  },
+  "sections": [
+    {
+      "type": "hero",
+      "eyebrow": "Perth & South West · Since 2009",
+      "heading": "Fences built for",
+      "highlight": "the WA sun.",
+      "subheading": "Colorbond, pool, slat and security fencing — measured, quoted and installed by one local crew. Book a free measure in under a minute.",
+      "image": { "src": "https://unsplash.com/photos/URD4NdWyd60/download?w=2000", "alt": "Modern Perth home with a landscaped front yard and fence" },
+      "ctas": [
+        { "label": "Book a free measure", "action": "open-chat", "prompt": "I'd like to book a free measure and quote", "variant": "primary" },
+        { "label": "Price my fence", "href": "/calculator", "action": "link", "variant": "secondary" }
+      ],
+      "badges": ["Fixed written quotes", "10-year workmanship warranty", "Prices include GST"]
+    },
+    {
+      "type": "stats",
+      "items": [
+        { "value": "14,800+", "label": "Fences installed" },
+        { "value": "4.9★", "label": "412 Google reviews" },
+        { "value": "9", "label": "In-house crews" },
+        { "value": "48 hr", "label": "Written quote turnaround" }
+      ]
+    },
+    {
+      "type": "audience-split",
+      "eyebrow": "How can we help?",
+      "heading": "Three ways to get your fence sorted",
+      "items": [
+        { "icon": "hammer", "title": "Supply & install", "description": "We measure, quote, remove the old fence and install the new one. You just pick the colour.", "cta": { "label": "Book a free measure", "action": "open-chat", "prompt": "I'd like a fence supplied and installed", "variant": "primary" } },
+        { "icon": "package", "title": "DIY supplies", "description": "Pre-cut kits for Colorbond, PVC, pool and slat fencing. Pick up from our yards or get it delivered.", "cta": { "label": "Price materials", "href": "/calculator", "action": "link", "variant": "secondary" } },
+        { "icon": "building-2", "title": "Commercial & mining", "description": "Tender pricing from drawings, SWMS-ready crews and FIFO teams for regional WA.", "cta": { "label": "Commercial enquiry", "href": "/contact?type=commercial", "action": "link", "variant": "secondary" } }
+      ]
+    },
+    {
+      "type": "service-grid",
+      "eyebrow": "What we build",
+      "heading": "Fencing for every block and budget",
+      "subheading": "Every price below includes GST. Installed prices include materials, labour and clean-up.",
+      "showPrices": true
+    },
+    {
+      "type": "process",
+      "eyebrow": "How it works",
+      "heading": "From first chat to finished fence",
+      "steps": [
+        { "title": "Book a measure", "description": "Chat with our assistant or call — pick a morning or afternoon window that suits you." },
+        { "title": "Free on-site quote", "description": "An estimator measures, shows samples and emails a fixed written quote within 48 hours." },
+        { "title": "We install", "description": "Accept online, pay a 30% deposit and we lock in your install date. Most jobs take one day." },
+        { "title": "10-year peace of mind", "description": "We clean up, walk you through the finished job and back it with a 10-year workmanship warranty." }
+      ]
+    },
+    {
+      "type": "calculator-teaser",
+      "eyebrow": "Fence calculator",
+      "heading": "Know your budget before we visit",
+      "subheading": "Pick a fence type, enter the length and get an instant price range — installed or supply only.",
+      "points": ["Uses the same prices as our quotes", "Neighbour 50/50 split shown", "Takes 30 seconds"],
+      "image": { "src": "https://unsplash.com/photos/qM_2NDZFs9g/download?w=1400", "alt": "Patio and garden enclosed by a privacy fence" }
+    },
+    {
+      "type": "projects",
+      "eyebrow": "Recent work",
+      "heading": "Real jobs, real backyards",
+      "limit": 3
+    },
+    {
+      "type": "reviews",
+      "eyebrow": "Reviews",
+      "heading": "Rated 4.9 by 412 WA homeowners",
+      "limit": 6
+    },
+    {
+      "type": "locations",
+      "eyebrow": "Service areas",
+      "heading": "Local crews in Perth and the South West",
+      "subheading": "Two yards, nine crews and estimators on the road every weekday."
+    },
+    {
+      "type": "faq",
+      "eyebrow": "FAQs",
+      "heading": "Questions we hear every day",
+      "limit": 6
+    },
+    {
+      "type": "cta-banner",
+      "heading": "Ready for a fence you'll never think about again?",
+      "subheading": "Book a free measure in under a minute — our assistant can answer questions and lock in a time right now.",
+      "ctas": [
+        { "label": "Chat & book now", "action": "open-chat", "prompt": "I'd like to book a free measure", "variant": "primary" },
+        { "label": "Call (08) 5550 1234", "action": "call", "href": "tel:+61855501234", "variant": "ghost" }
+      ]
+    }
+  ]
+}

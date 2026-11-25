@@ -1,0 +1,100 @@
+[
+  {
+    "serviceSlug": "colorbond-fencing",
+    "options": [
+      { "type": "installed", "unit": "lm", "from": 115, "gstIncluded": true, "includes": ["Panels, posts & rails", "Concreted posts", "Site clean-up"], "excludes": ["Old fence removal (+$15/lm)", "Plinths"] },
+      { "type": "supply-only", "unit": "lm", "from": 68, "gstIncluded": true, "includes": ["Panels, posts & rails", "Fixings"], "excludes": ["Concrete", "Delivery (from $85)"] }
+    ],
+    "heightOptions": [
+      { "label": "1.5m", "multiplier": 0.9 },
+      { "label": "1.8m (standard)", "multiplier": 1 },
+      { "label": "2.1m", "multiplier": 1.18 }
+    ],
+    "notes": "Neighbour typically pays 50% of a shared dividing fence."
+  },
+  {
+    "serviceSlug": "pool-fencing",
+    "options": [
+      { "type": "installed", "unit": "lm", "from": 135, "gstIncluded": true, "includes": ["Aluminium panels & posts", "Compliance check"], "excludes": ["Gates (from $420 each)", "Frameless glass (from $390/lm)"] },
+      { "type": "supply-only", "unit": "lm", "from": 62, "gstIncluded": true, "includes": ["Aluminium panels & posts"], "excludes": ["Gates & hardware"] }
+    ],
+    "heightOptions": [
+      { "label": "Aluminium", "multiplier": 1 },
+      { "label": "Perforated steel", "multiplier": 1.25 },
+      { "label": "Semi-frameless glass", "multiplier": 2.1 },
+      { "label": "Frameless glass", "multiplier": 2.9 }
+    ]
+  },
+  {
+    "serviceSlug": "pvc-fencing",
+    "options": [
+      { "type": "installed", "unit": "lm", "from": 129, "gstIncluded": true, "includes": ["Panels & posts", "Concreted posts"], "excludes": ["Gates"] },
+      { "type": "supply-only", "unit": "lm", "from": 79, "gstIncluded": true, "includes": ["Panel kits & posts"], "excludes": ["Delivery"] }
+    ],
+    "heightOptions": [
+      { "label": "0.9m picket", "multiplier": 0.8 },
+      { "label": "1.2m semi-privacy", "multiplier": 1 },
+      { "label": "1.8m full privacy", "multiplier": 1.3 }
+    ]
+  },
+  {
+    "serviceSlug": "aluminium-slat-fencing",
+    "options": [
+      { "type": "installed", "unit": "lm", "from": 245, "gstIncluded": true, "includes": ["Custom fabrication", "Powder coat", "Installation"], "excludes": ["Rendered piers"] },
+      { "type": "supply-only", "unit": "lm", "from": 165, "gstIncluded": true, "includes": ["Pre-cut slats & posts"], "excludes": ["Installation"] }
+    ],
+    "heightOptions": [
+      { "label": "1.2m", "multiplier": 0.75 },
+      { "label": "1.8m", "multiplier": 1 },
+      { "label": "2.1m", "multiplier": 1.15 }
+    ]
+  },
+  {
+    "serviceSlug": "blade-fencing",
+    "options": [
+      { "type": "installed", "unit": "lm", "from": 310, "gstIncluded": true, "includes": ["Custom fabrication", "Powder coat", "Installation"], "excludes": ["Woodgrain finish (+20%)"] }
+    ],
+    "heightOptions": [
+      { "label": "1.2m", "multiplier": 0.75 },
+      { "label": "1.8m", "multiplier": 1 },
+      { "label": "2.4m", "multiplier": 1.3 }
+    ]
+  },
+  {
+    "serviceSlug": "security-fencing",
+    "options": [
+      { "type": "installed", "unit": "lm", "from": 165, "gstIncluded": true, "includes": ["Garrison panels", "Core-drilled or concreted posts"], "excludes": ["Remote travel", "Gates"] },
+      { "type": "supply-only", "unit": "lm", "from": 89, "gstIncluded": true, "includes": ["Garrison panels & posts"], "excludes": ["Delivery"] }
+    ],
+    "heightOptions": [
+      { "label": "1.8m", "multiplier": 1 },
+      { "label": "2.1m", "multiplier": 1.12 },
+      { "label": "2.4m", "multiplier": 1.25 }
+    ],
+    "notes": "Commercial projects are priced from drawings — these figures are indicative only."
+  },
+  {
+    "serviceSlug": "retaining-walls",
+    "options": [
+      { "type": "installed", "unit": "lm", "from": 185, "gstIncluded": true, "includes": ["Sleepers & galvanised posts", "Ag-pipe drainage"], "excludes": ["Engineering above 500mm", "Excavation in rock"] },
+      { "type": "supply-only", "unit": "lm", "from": 96, "gstIncluded": true, "includes": ["Sleepers & posts"], "excludes": ["Concrete", "Delivery"] }
+    ],
+    "heightOptions": [
+      { "label": "Up to 400mm", "multiplier": 0.8 },
+      { "label": "Up to 600mm", "multiplier": 1 },
+      { "label": "Up to 1000mm", "multiplier": 1.6 }
+    ]
+  },
+  {
+    "serviceSlug": "gates-automation",
+    "options": [
+      { "type": "installed", "unit": "each", "from": 2450, "gstIncluded": true, "includes": ["Sliding gate to match fence", "Centurion D5 motor", "2 remotes"], "excludes": ["Electrical run over 10m"] },
+      { "type": "supply-only", "unit": "each", "from": 990, "gstIncluded": true, "includes": ["Motor kit, track & remotes"], "excludes": ["Gate", "Installation"] }
+    ],
+    "heightOptions": [
+      { "label": "Pedestrian gate", "multiplier": 0.35 },
+      { "label": "Sliding driveway gate", "multiplier": 1 },
+      { "label": "Double swing gate", "multiplier": 1.15 }
+    ]
+  }
+]

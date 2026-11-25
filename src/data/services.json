@@ -1,0 +1,256 @@
+[
+  {
+    "slug": "colorbond-fencing",
+    "name": "Colorbond Fencing",
+    "shortName": "Colorbond",
+    "category": "residential",
+    "icon": "fence",
+    "summary": "Australia's favourite boundary fence — steel panels that won't rot, warp or burn, in 20+ modern colours.",
+    "description": [
+      "Colorbond® steel fencing is the go-to choice for WA boundaries because it handles everything our climate throws at it: summer heat, coastal salt, termites and winter storms. Our crews install full privacy, semi-privacy (lattice top) and plinth options, with posts set in concrete at 2.4m centres.",
+      "We handle the boring bits too — dividing fence paperwork with your neighbour, removal of old asbestos-free fencing, and stepping or raking panels on sloping blocks so the top line looks clean."
+    ],
+    "features": [
+      "Full privacy, lattice-top and slat-top styles",
+      "Plinths for sloping or retained blocks",
+      "Neighbour cost-sharing paperwork handled",
+      "Old fence removal & green-waste disposal"
+    ],
+    "specs": [
+      { "label": "Heights", "value": "1.5m, 1.8m, 2.1m" },
+      { "label": "Post spacing", "value": "2.4m, concreted" },
+      { "label": "Colours", "value": "22 Colorbond® colours" },
+      { "label": "Steel", "value": "BlueScope 0.35mm BMT" }
+    ],
+    "installTime": "Typically 1 day for a standard 30m boundary",
+    "warranty": "10-year workmanship + BlueScope material warranty",
+    "image": { "src": "https://unsplash.com/photos/xink7jYt7hQ/download?w=1600", "alt": "Backyard lawn bordered by a neat steel boundary fence" },
+    "gallery": [
+      { "src": "https://unsplash.com/photos/wd3L9AMXcUU/download?w=1200", "alt": "Backyard entertaining area with a privacy fence behind" },
+      { "src": "https://unsplash.com/photos/qM_2NDZFs9g/download?w=1200", "alt": "Patio with outdoor furniture against a boundary fence" }
+    ],
+    "faqIds": ["dividing-fence", "colours", "timeline"],
+    "featured": true,
+    "seo": { "title": "Colorbond Fencing Perth | Supply & Install", "description": "Colorbond fence supply and installation across Perth and the South West. 22 colours, plinths for sloping blocks, 10-year workmanship warranty." }
+  },
+  {
+    "slug": "pool-fencing",
+    "name": "Pool Fencing",
+    "shortName": "Pool",
+    "category": "pool",
+    "icon": "waves",
+    "summary": "Frameless glass, aluminium and perforated pool fencing — built to AS 1926.1 and inspection-ready.",
+    "description": [
+      "A pool fence has one job that matters more than looks: keeping kids safe. Every Saltbush pool fence is designed and installed to AS 1926.1-2012, with self-closing, self-latching gates and non-climbable zones checked on site before we leave.",
+      "Choose frameless 12mm toughened glass for uninterrupted views, semi-frameless for a lower budget, or powder-coated aluminium and perforated steel panels for a tough, low-maintenance finish."
+    ],
+    "features": [
+      "AS 1926.1 compliant design & install",
+      "Frameless, semi-frameless, aluminium & perforated",
+      "Soft-close, self-latching gate hardware",
+      "Compliance checklist handed over on completion"
+    ],
+    "specs": [
+      { "label": "Height", "value": "1.2m minimum (compliant)" },
+      { "label": "Glass", "value": "12mm toughened, polished edges" },
+      { "label": "Spigots", "value": "316 marine-grade stainless" },
+      { "label": "Gates", "value": "Self-closing, self-latching" }
+    ],
+    "installTime": "1–2 days, glass ordered to measure (7–10 days lead)",
+    "warranty": "10-year workmanship, 5-year hardware",
+    "image": { "src": "https://unsplash.com/photos/SWfvM4yJfWM/download?w=1600", "alt": "Rectangular backyard pool with clear surrounds" },
+    "gallery": [
+      { "src": "https://unsplash.com/photos/6WWZwovAWa4/download?w=1200", "alt": "Blue swimming pool beside a timber fence" },
+      { "src": "https://unsplash.com/photos/K76E3nttJFE/download?w=1200", "alt": "Swimming pool with a modern building behind" }
+    ],
+    "faqIds": ["pool-compliance", "timeline", "quote-free"],
+    "featured": true,
+    "seo": { "title": "Pool Fencing Perth | Glass & Aluminium | AS1926 Compliant", "description": "Frameless glass, semi-frameless, aluminium and perforated pool fencing installed to AS 1926.1 across Perth and the South West." }
+  },
+  {
+    "slug": "pvc-fencing",
+    "name": "PVC Fencing",
+    "shortName": "PVC",
+    "category": "residential",
+    "icon": "rows-3",
+    "summary": "Classic picket and full-privacy looks without the painting — UV-stabilised vinyl that stays bright white.",
+    "description": [
+      "PVC (vinyl) fencing gives you the timeless look of a painted picket fence with none of the upkeep. It's UV-stabilised for the WA sun, won't rot or attract termites, and cleans up with a hose.",
+      "Popular for front yards, rural properties and estates with design guidelines. We stock picket, semi-privacy and full-privacy panels, plus matching pedestrian and driveway gates."
+    ],
+    "features": [
+      "Never needs painting",
+      "UV-stabilised for WA conditions",
+      "Picket, semi & full privacy panels",
+      "DIY kits available for pick-up"
+    ],
+    "specs": [
+      { "label": "Heights", "value": "0.9m – 1.8m" },
+      { "label": "Colours", "value": "White, Surfmist, Monument" },
+      { "label": "Posts", "value": "127mm with aluminium insert" },
+      { "label": "Caps", "value": "Flat, pyramid or federation" }
+    ],
+    "installTime": "1 day for most front yards",
+    "warranty": "10-year workmanship, 20-year manufacturer",
+    "image": { "src": "https://unsplash.com/photos/AADAs47hcvA/download?w=1600", "alt": "Picket fence running alongside a quiet road" },
+    "gallery": [{ "src": "https://unsplash.com/photos/-UHyhmRhzrU/download?w=1200", "alt": "Weatherboard house on a green lawn" }],
+    "faqIds": ["diy-kits", "timeline"],
+    "featured": true,
+    "seo": { "title": "PVC Fencing Perth | Picket & Privacy", "description": "Low-maintenance PVC picket and privacy fencing supplied and installed in Perth. DIY kits available." }
+  },
+  {
+    "slug": "aluminium-slat-fencing",
+    "name": "Aluminium Slat Fencing",
+    "shortName": "Slat",
+    "category": "residential",
+    "icon": "align-justify",
+    "summary": "Horizontal slat screening that makes a front yard look architect-designed.",
+    "description": [
+      "Aluminium slat fencing is the quickest way to modernise a street frontage. Powder-coated slats with 9mm or 20mm gaps give you privacy with airflow, and pair beautifully with rendered piers and limestone.",
+      "We fabricate to measure in our Osborne Park workshop, so gates, screens and infill panels all line up perfectly."
+    ],
+    "features": [
+      "Custom-made to measure",
+      "65mm or 90mm slat profiles",
+      "Matching gates & bin screens",
+      "Dulux Duralloy powder coat"
+    ],
+    "specs": [
+      { "label": "Slat sizes", "value": "65 × 16mm, 90 × 16mm" },
+      { "label": "Gaps", "value": "5mm, 9mm, 20mm" },
+      { "label": "Finish", "value": "Satin powder coat" },
+      { "label": "Max height", "value": "2.1m" }
+    ],
+    "installTime": "Fabrication 2 weeks, install 1–2 days",
+    "warranty": "10-year workmanship, 10-year powder coat",
+    "image": { "src": "https://unsplash.com/photos/-1arfQkE9IQ/download?w=1600", "alt": "Grassy yard with a tree and fence in the background" },
+    "gallery": [],
+    "faqIds": ["timeline", "colours"],
+    "featured": true,
+    "seo": { "title": "Aluminium Slat Fencing Perth | Custom Made", "description": "Custom aluminium slat fencing, screens and gates fabricated and installed in Perth." }
+  },
+  {
+    "slug": "blade-fencing",
+    "name": "Blade Fencing",
+    "shortName": "Blade",
+    "category": "residential",
+    "icon": "columns-3",
+    "summary": "Vertical aluminium blades for a bold, architectural street presence.",
+    "description": [
+      "Blade fencing uses deep vertical aluminium profiles to create a fence that changes as you walk past it — open from the front, private from an angle. It's our most requested style for new builds in Perth's coastal suburbs.",
+      "Pair it with an automated sliding gate in the same profile for a seamless frontage."
+    ],
+    "features": [
+      "Deep 50mm & 100mm blade profiles",
+      "Privacy changes with viewing angle",
+      "Seamless matching sliding gates",
+      "Ideal for estate design guidelines"
+    ],
+    "specs": [
+      { "label": "Blade depth", "value": "50mm or 100mm" },
+      { "label": "Spacing", "value": "20 – 60mm" },
+      { "label": "Finish", "value": "Powder coat or woodgrain" },
+      { "label": "Max height", "value": "2.4m" }
+    ],
+    "installTime": "Fabrication 2–3 weeks, install 1–2 days",
+    "warranty": "10-year workmanship, 10-year powder coat",
+    "image": { "src": "https://unsplash.com/photos/wWSjPvLZ9o8/download?w=1600", "alt": "Building with columns behind a vertical fence" },
+    "gallery": [],
+    "faqIds": ["timeline"],
+    "featured": false,
+    "seo": { "title": "Blade Fencing Perth | Architectural Aluminium", "description": "Vertical aluminium blade fencing and matching gates, designed and installed in Perth." }
+  },
+  {
+    "slug": "security-fencing",
+    "name": "Security Fencing",
+    "shortName": "Security",
+    "category": "commercial",
+    "icon": "shield-check",
+    "summary": "Garrison, palisade and chainmesh fencing for commercial, industrial and mining sites.",
+    "description": [
+      "We fence commercial yards, schools, data centres and remote mine sites across WA. Our commercial team prices from drawings, provides SWMS and certificates of currency, and can mobilise crews FIFO for regional work.",
+      "Products include Garrison tubular fencing, steel palisade, chainmesh with barbed or razor wire, and anti-climb 358 mesh."
+    ],
+    "features": [
+      "Tender pricing from drawings",
+      "SWMS, insurances & inductions handled",
+      "Regional & FIFO crews",
+      "Access control & boom gate integration"
+    ],
+    "specs": [
+      { "label": "Systems", "value": "Garrison, palisade, chainmesh, 358 mesh" },
+      { "label": "Heights", "value": "1.2m – 3.0m" },
+      { "label": "Finish", "value": "Galvanised or powder coated" },
+      { "label": "Compliance", "value": "AS 1725 chainmesh" }
+    ],
+    "installTime": "Scoped per project",
+    "warranty": "Per contract — typically 12-month defects + 10-year workmanship",
+    "image": { "src": "https://unsplash.com/photos/Awke3pnPiWI/download?w=1600", "alt": "Brick building secured behind a steel gate" },
+    "gallery": [],
+    "faqIds": ["commercial"],
+    "featured": false,
+    "seo": { "title": "Commercial & Security Fencing WA", "description": "Garrison, palisade and chainmesh security fencing for commercial, industrial and mining sites across Western Australia." }
+  },
+  {
+    "slug": "retaining-walls",
+    "name": "Retaining Walls",
+    "shortName": "Retaining",
+    "category": "landscape",
+    "icon": "brick-wall",
+    "summary": "Concrete sleeper and limestone retaining walls, engineered and installed with your fence in one job.",
+    "description": [
+      "Most WA blocks need some retaining before a fence can go on top. We install concrete sleeper walls (in timber-look and smooth finishes) with galvanised steel posts, and coordinate engineering where walls exceed 500mm.",
+      "Doing your retaining and fencing together means one crew, one schedule and plinths that line up perfectly."
+    ],
+    "features": [
+      "Concrete sleeper & limestone options",
+      "Engineering arranged above 500mm",
+      "Combined fence + retaining packages",
+      "Drainage & ag-pipe included"
+    ],
+    "specs": [
+      { "label": "Sleepers", "value": "2000 × 200 × 75mm" },
+      { "label": "Posts", "value": "Hot-dip galvanised UB" },
+      { "label": "Finishes", "value": "Smooth, woodgrain, sandstone" },
+      { "label": "Max DIY height", "value": "500mm without engineering" }
+    ],
+    "installTime": "1–3 days depending on height & access",
+    "warranty": "10-year workmanship",
+    "image": { "src": "https://unsplash.com/photos/Ox49Toau6Tc/download?w=1600", "alt": "Garden trees along a brown timber-look boundary" },
+    "gallery": [],
+    "faqIds": ["timeline", "quote-free"],
+    "featured": false,
+    "seo": { "title": "Retaining Walls Perth | Concrete Sleepers", "description": "Concrete sleeper and limestone retaining walls installed with or without fencing across Perth and the South West." }
+  },
+  {
+    "slug": "gates-automation",
+    "name": "Gates & Automation",
+    "shortName": "Gates",
+    "category": "gates",
+    "icon": "door-open",
+    "summary": "Swing and sliding gates made to match your fence, with smart motors you can open from your phone.",
+    "description": [
+      "We build pedestrian, swing and sliding driveway gates in every fence style we sell, then automate them with Centurion and FAAC motor kits, solar options and app control.",
+      "Already have a gate? We retrofit motors, tracks and safety beams, and service most major brands."
+    ],
+    "features": [
+      "Made to match any fence style",
+      "Centurion & FAAC motor kits",
+      "Phone app & remote control",
+      "Safety beams & battery backup"
+    ],
+    "specs": [
+      { "label": "Gate types", "value": "Pedestrian, swing, sliding" },
+      { "label": "Motors", "value": "Centurion D5/D10, FAAC 740" },
+      { "label": "Power", "value": "240V or solar" },
+      { "label": "Control", "value": "Remotes, keypad, app" }
+    ],
+    "installTime": "Half-day for motor retrofit, 1 day with new gate",
+    "warranty": "10-year workmanship, 2-year motor",
+    "image": { "src": "https://unsplash.com/photos/bNAdhrt5API/download?w=1600", "alt": "Steel gate at the entrance of a home" },
+    "gallery": [],
+    "faqIds": ["timeline", "quote-free"],
+    "featured": true,
+    "seo": { "title": "Automatic Gates Perth | Sliding & Swing Gates", "description": "Custom swing and sliding gates with Centurion and FAAC automation, installed in Perth and the South West." }
+  }
+]

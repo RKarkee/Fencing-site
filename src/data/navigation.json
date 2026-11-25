@@ -1,0 +1,68 @@
+{
+  "main": [
+    {
+      "label": "Fencing",
+      "href": "/services",
+      "children": [
+        { "label": "Colorbond Fencing", "href": "/services/colorbond-fencing", "description": "Steel privacy fencing in 20+ colours" },
+        { "label": "Pool Fencing", "href": "/services/pool-fencing", "description": "Glass, aluminium & perforated — AS1926 compliant" },
+        { "label": "PVC Fencing", "href": "/services/pvc-fencing", "description": "Low-maintenance picket & privacy" },
+        { "label": "Aluminium Slat", "href": "/services/aluminium-slat-fencing", "description": "Modern horizontal screening" },
+        { "label": "Blade Fencing", "href": "/services/blade-fencing", "description": "Architectural vertical blades" },
+        { "label": "Security Fencing", "href": "/services/security-fencing", "description": "Garrison, palisade & chainmesh" },
+        { "label": "Retaining Walls", "href": "/services/retaining-walls", "description": "Concrete sleepers & limestone" },
+        { "label": "Gates & Automation", "href": "/services/gates-automation", "description": "Swing, sliding & motorised gates" }
+      ]
+    },
+    { "label": "Projects", "href": "/projects" },
+    { "label": "Price Calculator", "href": "/calculator" },
+    {
+      "label": "Areas",
+      "href": "/locations",
+      "children": [
+        { "label": "Perth Metro", "href": "/locations/perth" },
+        { "label": "Joondalup & North", "href": "/locations/joondalup" },
+        { "label": "Rockingham & Mandurah", "href": "/locations/rockingham-mandurah" },
+        { "label": "Bunbury & South West", "href": "/locations/bunbury" }
+      ]
+    },
+    { "label": "About", "href": "/about" },
+    { "label": "FAQs", "href": "/faqs" }
+  ],
+  "footer": [
+    {
+      "title": "Fencing",
+      "links": [
+        { "label": "Colorbond", "href": "/services/colorbond-fencing" },
+        { "label": "Pool", "href": "/services/pool-fencing" },
+        { "label": "PVC", "href": "/services/pvc-fencing" },
+        { "label": "Aluminium Slat", "href": "/services/aluminium-slat-fencing" },
+        { "label": "Security", "href": "/services/security-fencing" },
+        { "label": "Gates & Automation", "href": "/services/gates-automation" }
+      ]
+    },
+    {
+      "title": "Company",
+      "links": [
+        { "label": "About us", "href": "/about" },
+        { "label": "Projects", "href": "/projects" },
+        { "label": "Service areas", "href": "/locations" },
+        { "label": "Contact", "href": "/contact" }
+      ]
+    },
+    {
+      "title": "Help",
+      "links": [
+        { "label": "Book a free measure", "href": "/book" },
+        { "label": "Price calculator", "href": "/calculator" },
+        { "label": "FAQs", "href": "/faqs" },
+        { "label": "Commercial enquiries", "href": "/contact?type=commercial" }
+      ]
+    }
+  ],
+  "legal": [
+    { "label": "Privacy", "href": "/faqs#privacy" },
+    { "label": "Warranty", "href": "/faqs#warranty" },
+    { "label": "Terms", "href": "/faqs#terms" }
+  ]
+}

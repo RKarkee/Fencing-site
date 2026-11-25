@@ -1,0 +1,62 @@
+{
+  "slug": "services",
+  "seo": {
+    "title": "Fencing Services | Saltbush Fencing Co.",
+    "description": "Colorbond, pool, PVC, aluminium slat, blade, security fencing, retaining walls and automated gates across Perth and the South West."
+  },
+  "sections": [
+    {
+      "type": "page-header",
+      "eyebrow": "Our fencing",
+      "heading": "Every fence we build, priced upfront",
+      "subheading": "All prices include GST. 'Installed' covers materials, labour and clean-up — your written quote confirms the exact figure."
+    },
+    {
+      "type": "service-grid",
+      "heading": "Choose a fence type",
+      "showPrices": true
+    },
+    {
+      "type": "process",
+      "eyebrow": "How it works",
+      "heading": "Simple from start to finish",
+      "steps": [
+        {
+          "title": "Book a measure",
+          "description": "Online, by chat or by phone."
+        },
+        {
+          "title": "Fixed quote",
+          "description": "Emailed within 48 hours."
+        },
+        {
+          "title": "Install",
+          "description": "Usually within 2–3 weeks."
+        },
+        {
+          "title": "Warranty",
+          "description": "10 years on workmanship."
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "FAQs",
+      "heading": "Pricing & booking questions",
+      "category": "pricing"
+    },
+    {
+      "type": "cta-banner",
+      "heading": "Not sure which fence suits your block?",
+      "subheading": "Ask our assistant — it knows every product, price and lead time.",
+      "ctas": [
+        {
+          "label": "Ask the assistant",
+          "action": "open-chat",
+          "prompt": "Which fence would suit my property?",
+          "variant": "primary"
+        }
+      ]
+    }
+  ]
+}

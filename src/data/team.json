@@ -1,0 +1,6 @@
+[
+  { "id": "t1", "name": "Rob Hartley", "role": "Founder & Managing Director", "bio": "Started Saltbush with one ute and a post-hole digger in 2009. Still visits every job site once a week.", "years": 22, "initials": "RH" },
+  { "id": "t2", "name": "Mel Nguyen", "role": "Operations Manager", "bio": "Keeps 9 crews, 2 yards and a few hundred jobs a month running on time.", "years": 11, "initials": "MN" },
+  { "id": "t3", "name": "Josh Pereira", "role": "Senior Estimator", "bio": "Has measured more than 6,000 Perth fences and can spot a dodgy boundary peg from the street.", "years": 9, "initials": "JP" },
+  { "id": "t4", "name": "Kate Dawson", "role": "South West Manager", "bio": "Born and raised in Bunbury, Kate runs our South West depot and crew.", "years": 7, "initials": "KD" }
+]

@@ -1,0 +1,36 @@
+{
+  "slug": "faqs",
+  "seo": {
+    "title": "Fencing FAQs | Saltbush Fencing Co.",
+    "description": "Answers about pricing, dividing fences, pool compliance, warranties and booking a free measure."
+  },
+  "sections": [
+    {
+      "type": "page-header",
+      "eyebrow": "Help centre",
+      "heading": "Frequently asked questions",
+      "subheading": "Can't find your answer? Our chat assistant is available 24/7."
+    },
+    {
+      "type": "faq",
+      "heading": "Everything you need to know"
+    },
+    {
+      "type": "cta-banner",
+      "heading": "Still have a question?",
+      "ctas": [
+        {
+          "label": "Ask the assistant",
+          "action": "open-chat",
+          "variant": "primary"
+        },
+        {
+          "label": "Contact us",
+          "href": "/contact",
+          "action": "link",
+          "variant": "ghost"
+        }
+      ]
+    }
+  ]
+}

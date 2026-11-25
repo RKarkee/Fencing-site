@@ -1,0 +1,15 @@
+{
+  "slug": "calculator",
+  "seo": {
+    "title": "Fence Cost Calculator Perth | Instant Estimate",
+    "description": "Estimate the cost of Colorbond, pool, PVC, slat and other fencing in Perth — installed or supply only, GST included."
+  },
+  "sections": [
+    {
+      "type": "page-header",
+      "eyebrow": "Fence calculator",
+      "heading": "Price your fence in 30 seconds",
+      "subheading": "Uses the same price list as our written quotes. Final pricing is confirmed after a free on-site measure."
+    }
+  ]
+}

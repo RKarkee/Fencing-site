@@ -1,0 +1,50 @@
+{
+  "slug": "about",
+  "seo": {
+    "title": "About Saltbush Fencing Co. | Family-run WA Fencing Since 2009",
+    "description": "Family-run fencing contractor with nine in-house crews, yards in Osborne Park and Bunbury, and a 10-year workmanship warranty."
+  },
+  "sections": [
+    {
+      "type": "page-header",
+      "eyebrow": "About us",
+      "heading": "A family business that just happens to build a lot of fences",
+      "subheading": "Started in 2009 with one ute in Osborne Park. Today: nine in-house crews, two yards and 14,800+ fences across Western Australia.",
+      "image": { "src": "https://unsplash.com/photos/xink7jYt7hQ/download?w=1800", "alt": "Lawn and fence behind a family home" }
+    },
+    {
+      "type": "rich-text",
+      "eyebrow": "Our story",
+      "heading": "Named after a plant that thrives where others don't",
+      "paragraphs": [
+        "Saltbush grows in salty, dry, wind-blasted country where almost nothing else survives. That's the standard we hold our fences to: built for coastal salt, 40-degree summers and winter storms.",
+        "We never subcontract installs. Every crew is employed by us, trained by us and accountable to us — which is why we can put a 10-year workmanship warranty on every job.",
+        "From a single Colorbond boundary to a 400-metre mine-site perimeter, we treat every fence like it's going around our own backyard."
+      ],
+      "image": { "src": "https://unsplash.com/photos/Ox49Toau6Tc/download?w=1400", "alt": "Trees along a timber-look boundary fence" }
+    },
+    {
+      "type": "values",
+      "eyebrow": "What we stand for",
+      "heading": "The Saltbush standard",
+      "items": [
+        { "icon": "receipt", "title": "Prices you can trust", "description": "Every price includes GST and every quote lists exactly what's in and what's not." },
+        { "icon": "users", "title": "No subcontractors", "description": "In-house crews only, so the people who quote are the people who answer the phone later." },
+        { "icon": "shield-check", "title": "10-year warranty", "description": "Our workmanship warranty sits on top of BlueScope and manufacturer guarantees." },
+        { "icon": "leaf", "title": "Tidy sites", "description": "Old fencing is recycled wherever possible and we leave every site cleaner than we found it." }
+      ]
+    },
+    { "type": "stats", "items": [ { "value": "2009", "label": "Founded" }, { "value": "14,800+", "label": "Fences installed" }, { "value": "38", "label": "Team members" }, { "value": "4.9★", "label": "Google rating" } ] },
+    { "type": "team", "eyebrow": "The team", "heading": "People you'll actually meet" },
+    { "type": "reviews", "eyebrow": "Reviews", "heading": "What our customers say", "limit": 3 },
+    {
+      "type": "cta-banner",
+      "heading": "Come and see us",
+      "subheading": "Visit the Osborne Park showroom to see every fence style and colour in person — or book a measure and we'll come to you.",
+      "ctas": [
+        { "label": "Book a free measure", "action": "open-chat", "prompt": "I'd like to book a free measure", "variant": "primary" },
+        { "label": "Contact us", "href": "/contact", "action": "link", "variant": "ghost" }
+      ]
+    }
+  ]
+}

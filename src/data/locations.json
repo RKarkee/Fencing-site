@@ -1,0 +1,46 @@
+[
+  {
+    "slug": "perth",
+    "name": "Perth Metro",
+    "region": "perth",
+    "officeId": "perth",
+    "intro": "Our Osborne Park crews cover the whole metro area every weekday — from the hills to the coast. Most Perth measures happen within 3 business days of booking.",
+    "suburbs": ["Osborne Park", "Scarborough", "Stirling", "Subiaco", "Nedlands", "Bayswater", "Morley", "Midland", "Canning Vale", "Victoria Park", "Cannington", "Armadale", "Kalamunda", "Fremantle", "Cottesloe", "Applecross"],
+    "leadTime": "Measures within 3 business days · installs in 2–3 weeks",
+    "image": { "src": "https://unsplash.com/photos/URD4NdWyd60/download?w=1600", "alt": "Modern house with a large front yard" },
+    "seo": { "title": "Fencing Contractors Perth | Saltbush Fencing Co.", "description": "Colorbond, pool, PVC and slat fencing installed across Perth metro. Free measure and written quote within 3 business days." }
+  },
+  {
+    "slug": "joondalup",
+    "name": "Joondalup & Northern Suburbs",
+    "region": "perth",
+    "officeId": "perth",
+    "intro": "New estates in the northern corridor are our bread and butter. We know the estate design guidelines for Alkimos, Eglinton, Yanchep and Butler — and which fence styles get approved first time.",
+    "suburbs": ["Joondalup", "Wanneroo", "Clarkson", "Butler", "Alkimos", "Eglinton", "Yanchep", "Two Rocks", "Hillarys", "Ocean Reef", "Currambine", "Banksia Grove"],
+    "leadTime": "Measures within 3 business days · installs in 2–3 weeks",
+    "image": { "src": "https://unsplash.com/photos/-UHyhmRhzrU/download?w=1600", "alt": "House on a green lawn in a quiet suburb" },
+    "seo": { "title": "Fencing Joondalup & Northern Suburbs", "description": "Fencing for new estates and established homes in Joondalup, Wanneroo, Alkimos, Yanchep and the northern suburbs." }
+  },
+  {
+    "slug": "rockingham-mandurah",
+    "name": "Rockingham & Mandurah",
+    "region": "perth",
+    "officeId": "perth",
+    "intro": "Coastal salt is tough on fencing. In Rockingham, Baldivis and Mandurah we specify marine-grade fixings and Colorbond Ultra steel within 1km of the beach as standard.",
+    "suburbs": ["Rockingham", "Baldivis", "Safety Bay", "Port Kennedy", "Secret Harbour", "Mandurah", "Halls Head", "Falcon", "Lakelands", "Madora Bay"],
+    "leadTime": "Measures within 4 business days · installs in 2–3 weeks",
+    "image": { "src": "https://unsplash.com/photos/6WWZwovAWa4/download?w=1600", "alt": "Backyard pool next to a timber fence" },
+    "seo": { "title": "Fencing Rockingham & Mandurah", "description": "Coastal-rated Colorbond, pool and PVC fencing for Rockingham, Baldivis and Mandurah homes." }
+  },
+  {
+    "slug": "bunbury",
+    "name": "Bunbury & South West",
+    "region": "south-west",
+    "officeId": "south-west",
+    "intro": "Our Bunbury depot services the South West from Harvey to Busselton and Dunsborough, with a local crew who live in the region. Rural fencing, estates and holiday homes all covered.",
+    "suburbs": ["Bunbury", "Australind", "Eaton", "Dalyellup", "Capel", "Busselton", "Dunsborough", "Harvey", "Donnybrook", "Collie"],
+    "leadTime": "Measures Tue & Thu · installs in 3–4 weeks",
+    "image": { "src": "https://unsplash.com/photos/9gHZ6qxQrpI/download?w=1600", "alt": "Green paddock with trees in the South West" },
+    "seo": { "title": "Fencing Bunbury & South West WA", "description": "Fencing supply and installation from our Bunbury depot, covering Australind, Busselton, Dunsborough and the South West." }
+  }
+]

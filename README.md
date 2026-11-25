@@ -22,7 +22,7 @@ Open http://localhost:3000.
 
 ## Stack
 
-Next.js 16 (App Router, Cache Components) · React 19 · TypeScript · Tailwind CSS v4 · Zod 4 · TanStack Query · React Hook Form · Vercel AI SDK v5 (`@ai-sdk/anthropic`) · Lucide icons · Fontsource (Inter, Bricolage Grotesque).
+Next.js 16 (App Router, Cache Components) · React 19 · TypeScript · Tailwind CSS v4 · Zod 4 · TanStack Query · React Hook Form · Vercel AI SDK v7 (`ai`, `@ai-sdk/react`, `@ai-sdk/anthropic`) · Lucide icons · Fontsource (Inter, Bricolage Grotesque).
 
 ## Architecture
 

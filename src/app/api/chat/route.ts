@@ -56,7 +56,7 @@ export async function POST(request: Request) {
   const result = streamText({
     model,
     system: await buildSystemPrompt(),
-    messages: convertToModelMessages(messages),
+    messages: await convertToModelMessages(messages),
     tools: chatTools,
     stopWhen: stepCountIs(5),
     temperature: 0.4,
